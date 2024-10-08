@@ -6,6 +6,7 @@ This repository contains a Fake-News-Detection project using machine learning te
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo](#Demo)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
@@ -16,6 +17,10 @@ This repository contains a Fake-News-Detection project using machine learning te
 ## Project Overview
 
 Fake news has become a critical issue in the age of digital information. The proliferation of misleading and false information can have severe consequences, leading to misinformation and mistrust in media. This project aims to build a simple fake news detection system using machine learning techniques to help users identify potential fake news articles.
+
+## Demo
+[![Watch the video](https://img.youtube.com/vi/iVvxRz_Z3Xg/0.jpg)](https://www.youtube.com/watch?v=iVvxRz_Z3Xg)
+
 
 ## Dataset
 
